@@ -691,7 +691,7 @@ footer .social-icons:hover, footer .social-icons:focus{
     justify-content: center;
     align-items: center;
     cursor: pointer;
-
+    line-height: 1.5;
 }
 .icon-send{
     margin-left: 16px;
