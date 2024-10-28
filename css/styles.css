@@ -459,7 +459,6 @@ background-color: #f4f4fd;
 .persons-social-list{
     display: flex;
         gap: 24px;
-        padding-top: 8px;
         justify-content: center;
 }
 .persons-social{
@@ -503,6 +502,11 @@ background-color: #f4f4fd;
 .ppp{
     font-size: 16px;
 }
+.job{
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
 .span-logo-bottom{
     
     font-family: "Raleway", sans-serif;
